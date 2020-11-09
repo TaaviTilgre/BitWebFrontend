@@ -1,0 +1,23 @@
+.Poll {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(44, 42, 41);
+}
+
+.PollQuery {
+  float: right;
+  flex: 1;
+  margin: 40px;
+  padding: 40px;
+  padding-top: 150px;
+  background-color: rgb(252, 252, 252);
+}
+
+.PollResult {
+  float: right;
+  flex: 1;
+  margin: 40px;
+  padding: 40px;
+  padding-top: 0px;
+  background-color: rgb(252, 252, 252);
+}
